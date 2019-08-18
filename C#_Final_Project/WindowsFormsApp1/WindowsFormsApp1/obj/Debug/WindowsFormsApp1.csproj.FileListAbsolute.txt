@@ -1,0 +1,76 @@
+C:\Users\FuadNg.CODE\Desktop\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\FuadNg.CODE\Desktop\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\FuadNg.CODE\Desktop\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\FuadNg.CODE\Desktop\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\FuadNg.CODE\Desktop\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\FuadNg.CODE\Desktop\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\FuadNg.CODE\Desktop\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\FuadNg.CODE\Desktop\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\FuadNg.CODE\Desktop\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\FuadNg.CODE\Desktop\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\FuadNg.CODE\Desktop\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\FuadNg.CODE\Desktop\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FuadNg.CODE\Desktop\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\FuadNg.CODE\Desktop\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FuadNg.CODE\Desktop\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminPanel.resources
+C:\Users\FuadNg.CODE\Desktop\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Waiters.resources
+C:\Users\Fuad's PC\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Fuad's PC\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Fuad's PC\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Fuad's PC\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\Fuad's PC\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fuad's PC\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\Fuad's PC\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fuad's PC\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminPanel.resources
+C:\Users\Fuad's PC\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Fuad's PC\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Fuad's PC\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Waiters.resources
+C:\Users\Fuad's PC\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Fuad's PC\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Fuad's PC\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Fuad's PC\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Fuad's PC\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Fuad's PC\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WaiterPanel.resources
+C:\Users\Fuad's PC\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Fuad's PC\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TotalPrice.resources
+C:\Users\Fuad's PC\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportForm.resources
+C:\Users\Fuad's PC\Desktop\Code Academy\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Fuad's PC\Desktop\Code Academy\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Fuad's PC\Desktop\Code Academy\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Fuad's PC\Desktop\Code Academy\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\Fuad's PC\Desktop\Code Academy\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fuad's PC\Desktop\Code Academy\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\Fuad's PC\Desktop\Code Academy\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fuad's PC\Desktop\Code Academy\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Fuad's PC\Desktop\Code Academy\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminPanel.resources
+C:\Users\Fuad's PC\Desktop\Code Academy\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Fuad's PC\Desktop\Code Academy\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Fuad's PC\Desktop\Code Academy\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportForm.resources
+C:\Users\Fuad's PC\Desktop\Code Academy\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TotalPrice.resources
+C:\Users\Fuad's PC\Desktop\Code Academy\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WaiterPanel.resources
+C:\Users\Fuad's PC\Desktop\Code Academy\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Waiters.resources
+C:\Users\Fuad's PC\Desktop\Code Academy\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Fuad's PC\Desktop\Code Academy\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Fuad's PC\Desktop\Code Academy\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Fuad's PC\Desktop\Code Academy\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Fuad's PC\Desktop\Code Academy\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\code\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\code\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\code\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\code\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\code\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\code\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\code\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\code\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\code\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminPanel.resources
+C:\Users\code\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\code\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\code\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportForm.resources
+C:\Users\code\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TotalPrice.resources
+C:\Users\code\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WaiterPanel.resources
+C:\Users\code\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Waiters.resources
+C:\Users\code\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\code\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\code\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\code\Desktop\C#_Final_Project\C#_Final_Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
